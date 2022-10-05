@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/free-vector/combination-circuit-head-shape-artificial-intelligence-moral-electronic-world-illustration_456031-123.jpg?w=1060&t=st=1664989365~exp=1664989965~hmac=8e31de97d6ba46dcad5d0249ae48c750f4a8da7fb721457be05d913dda081452)
-<h1 align="center">Hi 👋, I'm Murali</h1>
-<h3 align="center">A passionate Data Science enthusiast.</h3>
+<h1 align="center">Hi 👋, I'm Murali 🙂</h1>
+<h3 align="center">A passionate Data Science enthusiast🧑‍💻.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muralimohanv111&label=Profile%20views&color=0e75b6&style=flat" alt="muralimohanv111" /> </p>
