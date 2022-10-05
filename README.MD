@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-photo/ai-nuclear-energy-background-future-innovation-disruptive-technology_53876-129783.jpg?size=626&ext=jpg)
+   [![MasterHead](https://img.freepik.com/premium-photo/machine-learning-hand-robot-touching-computer-chip-binary-data_34200-418.jpg?size=626&ext=jpg&ga=GA1.2.690210341.1664970465)
 <h1 align="center">Hi 👋, I'm Murali</h1>
 <h3 align="center">A passionate Data Science enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
